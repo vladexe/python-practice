@@ -3,7 +3,7 @@ Task 1
 <br>
 Task 2
 <br>
-![plot](./python-practice/Images/Screenshot-1.png)
+![plot](Images/Screenshot-1.png)
 
 <br>
 
