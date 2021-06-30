@@ -1,9 +1,9 @@
 # Python programming practice 
 
 <br>
-<center><p>Task 1</p></center>  
+<h2 align="center">Task 1</h2>
 <img src="Images/Screenshot-1_Task-1.png" width="auto" title="hover text">
 
 <br>
-<center><p>Task 2</p></center>  
+<h2 align="center">Task 2</h2>
 <img src="Images/Screenshot-2_Task-2.png" width="auto" alt="accessibility text">
