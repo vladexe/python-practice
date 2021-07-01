@@ -2,7 +2,7 @@ import random
 arr = []
 
 for _ in range(0, 30):
-    arr.append(random.randint(-100, 100))
+    arr.append(random.randint(-10, 100))
 
 print('Array:', arr)
 print('Max:', max(arr))
